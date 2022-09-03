@@ -58,4 +58,6 @@
     color: var(--primary-color);
     background-color: white;
     transform: scale(1.2);
+    border: 0.1875rem solid var(--primary-color);
+    outline: 0.125rem solid white;
 }
